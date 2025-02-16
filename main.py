@@ -11,9 +11,9 @@ else:
 
 # Missão 2: O Sistema Eleitoral Secreto 📝 
 
-Dianna = 17
+dianna = 17
 
-if Dianna >= 16:
+if dianna >= 16:
     print("pode votar")
 else:
     print("não pode votar")
